@@ -15,7 +15,7 @@ StartupBridge needs your Input, Wisdom, Knowledge and Decisions to achieve those
 Open Source Everything, for a better tomorrow.
 
 ####Mission
-Building systems, OpenSystems, for OpenEconomy, for OpenSociety, for OpenDemocracy, for Humanity, without harming Mother Earth, Animals and Humans! If you believe that this is possible.
+Building systems, OpenSystems, for OpenEconomy, for OpenSociety, for OpenDemocracy, for Humanity, without harming Mother Earth, Animals and Humans! If you believe that this is possible, connect and engage.
 
 ####Project
 In transition with the existing systems, the existing economy, existing society, the existing democracy and the humanity as is now. Let us build a framework together, open in all parts, so we can build a transparent, true and trusty future for many generations to come.
