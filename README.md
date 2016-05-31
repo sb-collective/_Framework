@@ -19,6 +19,7 @@ Building systems, OpenSystems, for OpenEconomy, for OpenSociety, for OpenDemocra
 
 ####Project
 In transition with the existing systems, the existing economy, existing society, the existing democracy and the humanity as is now. Let us build a framework together, open in all parts, so we can build a transparent, true and trusty future for many generations to come.
+
 Project plan and supporting applications/platform:
 
 1. Policy & Compliance. The "Theoretical & Planning" Framework.
